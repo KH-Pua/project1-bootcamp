@@ -1,0 +1,3817 @@
+{
+  "tracks": {
+    "items": [
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+                },
+                "href": "https://api.spotify.com/v1/artists/32vWCbZh0xZ4o9gkz4PsEU",
+                "id": "32vWCbZh0xZ4o9gkz4PsEU",
+                "name": "Dolly Parton",
+                "type": "artist",
+                "uri": "spotify:artist:32vWCbZh0xZ4o9gkz4PsEU"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273060ccf36ab5b0e0a739799ec",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02060ccf36ab5b0e0a739799ec",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851060ccf36ab5b0e0a739799ec",
+                "width": 64
+              }
+            ],
+            "name": "9 To 5 And Odd Jobs"
+          },
+          "name": "9 to 5",
+          "preview_url": "https://p.scdn.co/mp3-preview/6384764199bf3d44f69085d62e10a076855ac8c8?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+                },
+                "href": "https://api.spotify.com/v1/artists/32WkQRZEVKSzVAAYqukAEA",
+                "id": "32WkQRZEVKSzVAAYqukAEA",
+                "name": "Lady A",
+                "type": "artist",
+                "uri": "spotify:artist:32WkQRZEVKSzVAAYqukAEA"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733a2cc6c5cdd9f07a95efa51b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023a2cc6c5cdd9f07a95efa51b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513a2cc6c5cdd9f07a95efa51b",
+                "width": 64
+              }
+            ],
+            "name": "Need You Now"
+          },
+          "name": "Need You Now",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+                },
+                "href": "https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd",
+                "id": "5vngPClqofybhPERIqQMYd",
+                "name": "George Strait",
+                "type": "artist",
+                "uri": "spotify:artist:5vngPClqofybhPERIqQMYd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ad861e10437aa5311df8b187",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ad861e10437aa5311df8b187",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ad861e10437aa5311df8b187",
+                "width": 64
+              }
+            ],
+            "name": "Strait Out Of The Box"
+          },
+          "name": "Check Yes Or No",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+                },
+                "href": "https://api.spotify.com/v1/artists/3qbnxnvUqR14MJ9g8QwZJK",
+                "id": "3qbnxnvUqR14MJ9g8QwZJK",
+                "name": "Lonestar",
+                "type": "artist",
+                "uri": "spotify:artist:3qbnxnvUqR14MJ9g8QwZJK"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733f2e5a67e69c991e926e1bd7",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023f2e5a67e69c991e926e1bd7",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513f2e5a67e69c991e926e1bd7",
+                "width": 64
+              }
+            ],
+            "name": "Playlist: The Very Best Of Lonestar"
+          },
+          "name": "Amazed",
+          "preview_url": "https://p.scdn.co/mp3-preview/1a49975d2b737539ccbd7e76a0d0f2a1784f8caa?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+                },
+                "href": "https://api.spotify.com/v1/artists/4tw2Lmn9tTPUv7Gy7mVPI4",
+                "id": "4tw2Lmn9tTPUv7Gy7mVPI4",
+                "name": "Kenny Rogers",
+                "type": "artist",
+                "uri": "spotify:artist:4tw2Lmn9tTPUv7Gy7mVPI4"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c289ed4316aaab5a5b7376c1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c289ed4316aaab5a5b7376c1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c289ed4316aaab5a5b7376c1",
+                "width": 64
+              }
+            ],
+            "name": "The Gambler"
+          },
+          "name": "The Gambler",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+                },
+                "href": "https://api.spotify.com/v1/artists/4AwLiAGc1rRLrCepj5rdTI",
+                "id": "4AwLiAGc1rRLrCepj5rdTI",
+                "name": "Collin Raye",
+                "type": "artist",
+                "uri": "spotify:artist:4AwLiAGc1rRLrCepj5rdTI"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732cc08f24f9e84994c1f1125f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022cc08f24f9e84994c1f1125f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512cc08f24f9e84994c1f1125f",
+                "width": 64
+              }
+            ],
+            "name": "All I Can Be"
+          },
+          "name": "Love, Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/06b5a30620c524581cf4ca5a4c2d47cd97cf8275?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+                },
+                "href": "https://api.spotify.com/v1/artists/4xFUf1FHVy696Q1JQZMTRj",
+                "id": "4xFUf1FHVy696Q1JQZMTRj",
+                "name": "Carrie Underwood",
+                "type": "artist",
+                "uri": "spotify:artist:4xFUf1FHVy696Q1JQZMTRj"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273724bd326692d222c5906b0b0",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02724bd326692d222c5906b0b0",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851724bd326692d222c5906b0b0",
+                "width": 64
+              }
+            ],
+            "name": "Some Hearts"
+          },
+          "name": "Jesus, Take the Wheel",
+          "preview_url": "https://p.scdn.co/mp3-preview/fedca051e658fc433e54b02b6fe305160200d56a?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+                },
+                "href": "https://api.spotify.com/v1/artists/25NQNriVT2YbSW80ILRWJa",
+                "id": "25NQNriVT2YbSW80ILRWJa",
+                "name": "Faith Hill",
+                "type": "artist",
+                "uri": "spotify:artist:25NQNriVT2YbSW80ILRWJa"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27315069968c52552cc2f222391",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0215069968c52552cc2f222391",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485115069968c52552cc2f222391",
+                "width": 64
+              }
+            ],
+            "name": "Faith"
+          },
+          "name": "This Kiss",
+          "preview_url": "https://p.scdn.co/mp3-preview/e98818e5eed0fd5afc2a85a76fe8f1cdd61a9171?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+                },
+                "href": "https://api.spotify.com/v1/artists/5e4Dhzv426EvQe3aDb64jL",
+                "id": "5e4Dhzv426EvQe3aDb64jL",
+                "name": "Shania Twain",
+                "type": "artist",
+                "uri": "spotify:artist:5e4Dhzv426EvQe3aDb64jL"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273aaf012d56b8c72658da6c45f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02aaf012d56b8c72658da6c45f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851aaf012d56b8c72658da6c45f",
+                "width": 64
+              }
+            ],
+            "name": "Come On Over"
+          },
+          "name": "You're Still The One",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+                },
+                "href": "https://api.spotify.com/v1/artists/7z5WFjZAIYejWy0NI5lv4T",
+                "id": "7z5WFjZAIYejWy0NI5lv4T",
+                "name": "Dan + Shay",
+                "type": "artist",
+                "uri": "spotify:artist:7z5WFjZAIYejWy0NI5lv4T"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27305e4408393e1c81a8ab1bf26",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0205e4408393e1c81a8ab1bf26",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485105e4408393e1c81a8ab1bf26",
+                "width": 64
+              }
+            ],
+            "name": "Dan + Shay"
+          },
+          "name": "Tequila",
+          "preview_url": "https://p.scdn.co/mp3-preview/bf69830f0ee23284aa7559c2f1938ce883797837?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+                },
+                "href": "https://api.spotify.com/v1/artists/7wCjDgV6nqBsHguQXPAaIM",
+                "id": "7wCjDgV6nqBsHguQXPAaIM",
+                "name": "Waylon Jennings",
+                "type": "artist",
+                "uri": "spotify:artist:7wCjDgV6nqBsHguQXPAaIM"
+              },
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+                },
+                "href": "https://api.spotify.com/v1/artists/5W5bDNCqJ1jbCgTxDD0Cb3",
+                "id": "5W5bDNCqJ1jbCgTxDD0Cb3",
+                "name": "Willie Nelson",
+                "type": "artist",
+                "uri": "spotify:artist:5W5bDNCqJ1jbCgTxDD0Cb3"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27303acdaed9bd25f06785c0719",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0203acdaed9bd25f06785c0719",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485103acdaed9bd25f06785c0719",
+                "width": 64
+              }
+            ],
+            "name": "Waylon & Willie"
+          },
+          "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+          "preview_url": "https://p.scdn.co/mp3-preview/00c963274c1713800f306050f99750173cd80b49?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+                },
+                "href": "https://api.spotify.com/v1/artists/7MSTO40bsb3DOJQT6xLsIc",
+                "id": "7MSTO40bsb3DOJQT6xLsIc",
+                "name": "The Judds",
+                "type": "artist",
+                "uri": "spotify:artist:7MSTO40bsb3DOJQT6xLsIc"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c89dc1a71f8f28baf4c503fd",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c89dc1a71f8f28baf4c503fd",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c89dc1a71f8f28baf4c503fd",
+                "width": 64
+              }
+            ],
+            "name": "Why Not Me"
+          },
+          "name": "Why Not Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/141733085308bac0fb6ca920175985aa71ad17b2?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+                },
+                "href": "https://api.spotify.com/v1/artists/32vWCbZh0xZ4o9gkz4PsEU",
+                "id": "32vWCbZh0xZ4o9gkz4PsEU",
+                "name": "Dolly Parton",
+                "type": "artist",
+                "uri": "spotify:artist:32vWCbZh0xZ4o9gkz4PsEU"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27326399936751b54c7e9782324",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0226399936751b54c7e9782324",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485126399936751b54c7e9782324",
+                "width": 64
+              }
+            ],
+            "name": "Jolene"
+          },
+          "name": "I Will Always Love You",
+          "preview_url": "https://p.scdn.co/mp3-preview/33566f97f8dcd045d7e6ac297f96dfebb8966d1b?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+                },
+                "href": "https://api.spotify.com/v1/artists/6OheJTrDFGiyZ67F1BBLhc",
+                "id": "6OheJTrDFGiyZ67F1BBLhc",
+                "name": "Crystal Gayle",
+                "type": "artist",
+                "uri": "spotify:artist:6OheJTrDFGiyZ67F1BBLhc"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273274feffe2955b9e67b2cb209",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02274feffe2955b9e67b2cb209",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851274feffe2955b9e67b2cb209",
+                "width": 64
+              }
+            ],
+            "name": "We Must Believe In Magic"
+          },
+          "name": "Don't It Make My Brown Eyes Blue",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+                },
+                "href": "https://api.spotify.com/v1/artists/0bc7dhY6YXL35m1G0jVwuW",
+                "id": "0bc7dhY6YXL35m1G0jVwuW",
+                "name": "Keith Whitley",
+                "type": "artist",
+                "uri": "spotify:artist:0bc7dhY6YXL35m1G0jVwuW"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27382d0ba5e8fb1878331d13e74",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0282d0ba5e8fb1878331d13e74",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485182d0ba5e8fb1878331d13e74",
+                "width": 64
+              }
+            ],
+            "name": "Greatest Hits"
+          },
+          "name": "When You Say Nothing at All",
+          "preview_url": "https://p.scdn.co/mp3-preview/53c464c1ebff5861cf113c71399350312637ce73?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+                },
+                "href": "https://api.spotify.com/v1/artists/3XlIhgydjvC4EniPFZT20j",
+                "id": "3XlIhgydjvC4EniPFZT20j",
+                "name": "Trisha Yearwood",
+                "type": "artist",
+                "uri": "spotify:artist:3XlIhgydjvC4EniPFZT20j"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a8635c8965518a6fb5eb160a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a8635c8965518a6fb5eb160a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a8635c8965518a6fb5eb160a",
+                "width": 64
+              }
+            ],
+            "name": "Trisha Yearwood"
+          },
+          "name": "She's In Love With The Boy - Single Version",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+                },
+                "href": "https://api.spotify.com/v1/artists/7dNsHhGeGU5MV01r06O8gK",
+                "id": "7dNsHhGeGU5MV01r06O8gK",
+                "name": "Patsy Cline",
+                "type": "artist",
+                "uri": "spotify:artist:7dNsHhGeGU5MV01r06O8gK"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736fda96b0954b958ee44c8efc",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026fda96b0954b958ee44c8efc",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516fda96b0954b958ee44c8efc",
+                "width": 64
+              }
+            ],
+            "name": "Showcase"
+          },
+          "name": "I Fall To Pieces - Single Version",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+                },
+                "href": "https://api.spotify.com/v1/artists/5e4Dhzv426EvQe3aDb64jL",
+                "id": "5e4Dhzv426EvQe3aDb64jL",
+                "name": "Shania Twain",
+                "type": "artist",
+                "uri": "spotify:artist:5e4Dhzv426EvQe3aDb64jL"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273aaf012d56b8c72658da6c45f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02aaf012d56b8c72658da6c45f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851aaf012d56b8c72658da6c45f",
+                "width": 64
+              }
+            ],
+            "name": "Come On Over"
+          },
+          "name": "Man! I Feel Like A Woman!",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+                },
+                "href": "https://api.spotify.com/v1/artists/66lH4jAE7pqPlOlzUKbwA0",
+                "id": "66lH4jAE7pqPlOlzUKbwA0",
+                "name": "Miranda Lambert",
+                "type": "artist",
+                "uri": "spotify:artist:66lH4jAE7pqPlOlzUKbwA0"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c771f702f64d760b1be4f2be",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c771f702f64d760b1be4f2be",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c771f702f64d760b1be4f2be",
+                "width": 64
+              }
+            ],
+            "name": "Revolution"
+          },
+          "name": "The House That Built Me",
+          "preview_url": "https://p.scdn.co/mp3-preview/ccbe72729e056e0d47f5da77d82010b33b57921a?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+                },
+                "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+                "id": "4mxWe1mtYIYfP040G38yvS",
+                "name": "Alan Jackson",
+                "type": "artist",
+                "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739921515d1f6a08b5d4907014",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029921515d1f6a08b5d4907014",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519921515d1f6a08b5d4907014",
+                "width": 64
+              }
+            ],
+            "name": "34 Number Ones"
+          },
+          "name": "It's Five O'Clock Somewhere",
+          "preview_url": "https://p.scdn.co/mp3-preview/3a487518752a73fffffcbfac557958af7a669c2c?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+                },
+                "href": "https://api.spotify.com/v1/artists/32vWCbZh0xZ4o9gkz4PsEU",
+                "id": "32vWCbZh0xZ4o9gkz4PsEU",
+                "name": "Dolly Parton",
+                "type": "artist",
+                "uri": "spotify:artist:32vWCbZh0xZ4o9gkz4PsEU"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b7894a415fad09b36cede571",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b7894a415fad09b36cede571",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b7894a415fad09b36cede571",
+                "width": 64
+              }
+            ],
+            "name": "Ultimate Dolly Parton"
+          },
+          "name": "Islands In the Stream",
+          "preview_url": "https://p.scdn.co/mp3-preview/b236fc4617baade623ad04c7a0d542ccb646d146?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN"
+                },
+                "href": "https://api.spotify.com/v1/artists/7H6dkUChT5EoOQtUVMg4cN",
+                "id": "7H6dkUChT5EoOQtUVMg4cN",
+                "name": "Hunter Hayes",
+                "type": "artist",
+                "uri": "spotify:artist:7H6dkUChT5EoOQtUVMg4cN"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273dd8dff82e07684beedab0b47",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02dd8dff82e07684beedab0b47",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851dd8dff82e07684beedab0b47",
+                "width": 64
+              }
+            ],
+            "name": "Hunter Hayes (Encore)"
+          },
+          "name": "Wanted",
+          "preview_url": "https://p.scdn.co/mp3-preview/495ede4b2dd552a8e4e4134aa751806b632f354d?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+                },
+                "href": "https://api.spotify.com/v1/artists/02rd0anEWfMtF7iMku9uor",
+                "id": "02rd0anEWfMtF7iMku9uor",
+                "name": "Reba McEntire",
+                "type": "artist",
+                "uri": "spotify:artist:02rd0anEWfMtF7iMku9uor"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739b14d5c6e9d46902d417eb34",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029b14d5c6e9d46902d417eb34",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519b14d5c6e9d46902d417eb34",
+                "width": 64
+              }
+            ],
+            "name": "Rumor Has It"
+          },
+          "name": "Fancy",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+                },
+                "href": "https://api.spotify.com/v1/artists/59hLmB5DrdihCYtNeFeW1U",
+                "id": "59hLmB5DrdihCYtNeFeW1U",
+                "name": "Glen Campbell",
+                "type": "artist",
+                "uri": "spotify:artist:59hLmB5DrdihCYtNeFeW1U"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27363134b3cf76a63e91647e1bb",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0263134b3cf76a63e91647e1bb",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485163134b3cf76a63e91647e1bb",
+                "width": 64
+              }
+            ],
+            "name": "Rhinestone Cowboy (Expanded Edition)"
+          },
+          "name": "Rhinestone Cowboy",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+                },
+                "href": "https://api.spotify.com/v1/artists/25NQNriVT2YbSW80ILRWJa",
+                "id": "25NQNriVT2YbSW80ILRWJa",
+                "name": "Faith Hill",
+                "type": "artist",
+                "uri": "spotify:artist:25NQNriVT2YbSW80ILRWJa"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f4adbbdcd39b09e5f0b9e03e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f4adbbdcd39b09e5f0b9e03e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f4adbbdcd39b09e5f0b9e03e",
+                "width": 64
+              }
+            ],
+            "name": "Breathe"
+          },
+          "name": "Breathe",
+          "preview_url": "https://p.scdn.co/mp3-preview/45afb3df5842beab4e3e0a06ff6a4c19ccec966f?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+                },
+                "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+                "id": "6roFdX1y5BYSbp60OTJWMd",
+                "name": "Tim McGraw",
+                "type": "artist",
+                "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734e3efb30c7b2e3ac54bf75ba",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024e3efb30c7b2e3ac54bf75ba",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514e3efb30c7b2e3ac54bf75ba",
+                "width": 64
+              }
+            ],
+            "name": "Damn Country Music"
+          },
+          "name": "Humble And Kind",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+                },
+                "href": "https://api.spotify.com/v1/artists/3ltFy7g6KKQPPttsdOMlq3",
+                "id": "3ltFy7g6KKQPPttsdOMlq3",
+                "name": "Jo Dee Messina",
+                "type": "artist",
+                "uri": "spotify:artist:3ltFy7g6KKQPPttsdOMlq3"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27336be216a07f04fd5b3e1e14d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0236be216a07f04fd5b3e1e14d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485136be216a07f04fd5b3e1e14d",
+                "width": 64
+              }
+            ],
+            "name": "All-Time Greatest Hits"
+          },
+          "name": "Heads Carolina, Tails California",
+          "preview_url": "https://p.scdn.co/mp3-preview/940467459b73c6524c61ade32527ab1a7d0288a2?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+                },
+                "href": "https://api.spotify.com/v1/artists/32vWCbZh0xZ4o9gkz4PsEU",
+                "id": "32vWCbZh0xZ4o9gkz4PsEU",
+                "name": "Dolly Parton",
+                "type": "artist",
+                "uri": "spotify:artist:32vWCbZh0xZ4o9gkz4PsEU"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27326399936751b54c7e9782324",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0226399936751b54c7e9782324",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485126399936751b54c7e9782324",
+                "width": 64
+              }
+            ],
+            "name": "Jolene"
+          },
+          "name": "Jolene",
+          "preview_url": "https://p.scdn.co/mp3-preview/66cd00686ab84843e560ae024e60e8bf0fba786d?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A"
+                },
+                "href": "https://api.spotify.com/v1/artists/7mPcfx7PhnBh6n4HMCd61A",
+                "id": "7mPcfx7PhnBh6n4HMCd61A",
+                "name": "John Michael Montgomery",
+                "type": "artist",
+                "uri": "spotify:artist:7mPcfx7PhnBh6n4HMCd61A"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a4835a373628cd12b67ea9b2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a4835a373628cd12b67ea9b2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a4835a373628cd12b67ea9b2",
+                "width": 64
+              }
+            ],
+            "name": "Kickin' It Up"
+          },
+          "name": "I Swear",
+          "preview_url": "https://p.scdn.co/mp3-preview/07bb12f49d161d8c68c7986613f8d68686f653e0?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+                },
+                "href": "https://api.spotify.com/v1/artists/3CygdxquGHurS7f9LjNLkv",
+                "id": "3CygdxquGHurS7f9LjNLkv",
+                "name": "Little Big Town",
+                "type": "artist",
+                "uri": "spotify:artist:3CygdxquGHurS7f9LjNLkv"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b241290f873c27bd45d09dd2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b241290f873c27bd45d09dd2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b241290f873c27bd45d09dd2",
+                "width": 64
+              }
+            ],
+            "name": "Pain Killer"
+          },
+          "name": "Girl Crush",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+                },
+                "href": "https://api.spotify.com/v1/artists/6x2LnllRG5uGarZMsD4iO8",
+                "id": "6x2LnllRG5uGarZMsD4iO8",
+                "name": "Thomas Rhett",
+                "type": "artist",
+                "uri": "spotify:artist:6x2LnllRG5uGarZMsD4iO8"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b6e40fe3bf6d49b6ef852c79",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b6e40fe3bf6d49b6ef852c79",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b6e40fe3bf6d49b6ef852c79",
+                "width": 64
+              }
+            ],
+            "name": "Tangled Up"
+          },
+          "name": "Die A Happy Man",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+                },
+                "href": "https://api.spotify.com/v1/artists/2kucQ9jQwuD8jWdtR9Ef38",
+                "id": "2kucQ9jQwuD8jWdtR9Ef38",
+                "name": "Sam Hunt",
+                "type": "artist",
+                "uri": "spotify:artist:2kucQ9jQwuD8jWdtR9Ef38"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27356277bb70d3a48ed654a0a57",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0256277bb70d3a48ed654a0a57",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485156277bb70d3a48ed654a0a57",
+                "width": 64
+              }
+            ],
+            "name": "Body Like A Back Road"
+          },
+          "name": "Body Like A Back Road",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+                },
+                "href": "https://api.spotify.com/v1/artists/0aqrM7Fo3Ml66Kc5JAzmjt",
+                "id": "0aqrM7Fo3Ml66Kc5JAzmjt",
+                "name": "Deana Carter",
+                "type": "artist",
+                "uri": "spotify:artist:0aqrM7Fo3Ml66Kc5JAzmjt"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b2145bcb28fd6dbaa1e44a83",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b2145bcb28fd6dbaa1e44a83",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b2145bcb28fd6dbaa1e44a83",
+                "width": 64
+              }
+            ],
+            "name": "The Deana Carter Collection"
+          },
+          "name": "Strawberry Wine",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+                },
+                "href": "https://api.spotify.com/v1/artists/32vWCbZh0xZ4o9gkz4PsEU",
+                "id": "32vWCbZh0xZ4o9gkz4PsEU",
+                "name": "Dolly Parton",
+                "type": "artist",
+                "uri": "spotify:artist:32vWCbZh0xZ4o9gkz4PsEU"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c12470f3f9af38f20ba4f2f1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c12470f3f9af38f20ba4f2f1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c12470f3f9af38f20ba4f2f1",
+                "width": 64
+              }
+            ],
+            "name": "Here You Come Again"
+          },
+          "name": "Here You Come Again",
+          "preview_url": "https://p.scdn.co/mp3-preview/f77d781b93ef5c2dda4e867644fe72fa986c8c61?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+                },
+                "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+                "id": "6roFdX1y5BYSbp60OTJWMd",
+                "name": "Tim McGraw",
+                "type": "artist",
+                "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e6b859b16a880b851822871d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e6b859b16a880b851822871d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e6b859b16a880b851822871d",
+                "width": 64
+              }
+            ],
+            "name": "Live Like You Were Dying"
+          },
+          "name": "Live Like You Were Dying",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef7cb0d3ffa9f96a41a0711b241f16c8b1a2be79?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL"
+                },
+                "href": "https://api.spotify.com/v1/artists/6Iz3eq2aQGFf7TbGT2iahL",
+                "id": "6Iz3eq2aQGFf7TbGT2iahL",
+                "name": "Gabby Barrett",
+                "type": "artist",
+                "uri": "spotify:artist:6Iz3eq2aQGFf7TbGT2iahL"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27366ffb23d13b04824e04f30d2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0266ffb23d13b04824e04f30d2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485166ffb23d13b04824e04f30d2",
+                "width": 64
+              }
+            ],
+            "name": "Goldmine"
+          },
+          "name": "I Hope",
+          "preview_url": "https://p.scdn.co/mp3-preview/279dc24760588d1c4532280a58fb2744e6d6f4e4?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+                },
+                "href": "https://api.spotify.com/v1/artists/0u2FHSq3ln94y5Q57xazwf",
+                "id": "0u2FHSq3ln94y5Q57xazwf",
+                "name": "Keith Urban",
+                "type": "artist",
+                "uri": "spotify:artist:0u2FHSq3ln94y5Q57xazwf"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736b884d4969e2438f5a83ed5b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026b884d4969e2438f5a83ed5b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516b884d4969e2438f5a83ed5b",
+                "width": 64
+              }
+            ],
+            "name": "Golden Road"
+          },
+          "name": "Somebody Like You",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+                },
+                "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+                "id": "3b8QkneNDz4JHKKKlLgYZg",
+                "name": "Florida Georgia Line",
+                "type": "artist",
+                "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736e89de7ebe87938fbb505628",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026e89de7ebe87938fbb505628",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516e89de7ebe87938fbb505628",
+                "width": 64
+              }
+            ],
+            "name": "Here's To The Good Times"
+          },
+          "name": "Cruise",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+                },
+                "href": "https://api.spotify.com/v1/artists/4oUHIQIBe0LHzYfvXNW4QM",
+                "id": "4oUHIQIBe0LHzYfvXNW4QM",
+                "name": "Morgan Wallen",
+                "type": "artist",
+                "uri": "spotify:artist:4oUHIQIBe0LHzYfvXNW4QM"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f9f2dda2df2a695b9bad3440",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f9f2dda2df2a695b9bad3440",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f9f2dda2df2a695b9bad3440",
+                "width": 64
+              }
+            ],
+            "name": "If I Know Me"
+          },
+          "name": "Whiskey Glasses",
+          "preview_url": "https://p.scdn.co/mp3-preview/8bfbda21b7e6c086f8d5461c05226cbf2f3e31fa?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+                },
+                "href": "https://api.spotify.com/v1/artists/69Fk1s1lzINOKqoSWjjEiE",
+                "id": "69Fk1s1lzINOKqoSWjjEiE",
+                "name": "Charley Pride",
+                "type": "artist",
+                "uri": "spotify:artist:69Fk1s1lzINOKqoSWjjEiE"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a827ab6452c9aacca7086f49",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a827ab6452c9aacca7086f49",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a827ab6452c9aacca7086f49",
+                "width": 64
+              }
+            ],
+            "name": "The Essential Charley Pride"
+          },
+          "name": "Kiss an Angel Good Mornin'",
+          "preview_url": "https://p.scdn.co/mp3-preview/cd1d91f200b3a1f1e359dfe02ce67c48478f0fe1?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+                },
+                "href": "https://api.spotify.com/v1/artists/7vCtweS8UVAXTyau2j0rDT",
+                "id": "7vCtweS8UVAXTyau2j0rDT",
+                "name": "Josh Turner",
+                "type": "artist",
+                "uri": "spotify:artist:7vCtweS8UVAXTyau2j0rDT"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733bcc42fdc5fd354a3e58a03c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023bcc42fdc5fd354a3e58a03c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513bcc42fdc5fd354a3e58a03c",
+                "width": 64
+              }
+            ],
+            "name": "Haywire"
+          },
+          "name": "Why Don't We Just Dance",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+                },
+                "href": "https://api.spotify.com/v1/artists/3P33qFNGBVXl86yQYWspFj",
+                "id": "3P33qFNGBVXl86yQYWspFj",
+                "name": "Martina McBride",
+                "type": "artist",
+                "uri": "spotify:artist:3P33qFNGBVXl86yQYWspFj"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731afac23dd54e6420bf11b4a8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021afac23dd54e6420bf11b4a8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511afac23dd54e6420bf11b4a8",
+                "width": 64
+              }
+            ],
+            "name": "Martina"
+          },
+          "name": "This One's for the Girls",
+          "preview_url": "https://p.scdn.co/mp3-preview/428fccc2a580a0f17c94377f22ef1086722b16f4?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+                },
+                "href": "https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd",
+                "id": "5vngPClqofybhPERIqQMYd",
+                "name": "George Strait",
+                "type": "artist",
+                "uri": "spotify:artist:5vngPClqofybhPERIqQMYd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737a740800cebc8c4e15a34651",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e027a740800cebc8c4e15a34651",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048517a740800cebc8c4e15a34651",
+                "width": 64
+              }
+            ],
+            "name": "Pure Country"
+          },
+          "name": "I Cross My Heart - Pure Country Soundtrack Version",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+                },
+                "href": "https://api.spotify.com/v1/artists/4xFUf1FHVy696Q1JQZMTRj",
+                "id": "4xFUf1FHVy696Q1JQZMTRj",
+                "name": "Carrie Underwood",
+                "type": "artist",
+                "uri": "spotify:artist:4xFUf1FHVy696Q1JQZMTRj"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273724bd326692d222c5906b0b0",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02724bd326692d222c5906b0b0",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851724bd326692d222c5906b0b0",
+                "width": 64
+              }
+            ],
+            "name": "Some Hearts"
+          },
+          "name": "Before He Cheats",
+          "preview_url": "https://p.scdn.co/mp3-preview/8dcbc4c73d9300b77c0df17c47cee1c54c07ab77?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+                },
+                "href": "https://api.spotify.com/v1/artists/60rpJ9SgigSd16DOAG7GSa",
+                "id": "60rpJ9SgigSd16DOAG7GSa",
+                "name": "Billy Ray Cyrus",
+                "type": "artist",
+                "uri": "spotify:artist:60rpJ9SgigSd16DOAG7GSa"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273bf80fa37dadf36f79441104f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02bf80fa37dadf36f79441104f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851bf80fa37dadf36f79441104f",
+                "width": 64
+              }
+            ],
+            "name": "Some Gave All"
+          },
+          "name": "Achy Breaky Heart",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+                },
+                "href": "https://api.spotify.com/v1/artists/25IG9fa7cbdmCIy3OnuH57",
+                "id": "25IG9fa7cbdmCIy3OnuH57",
+                "name": "The Chicks",
+                "type": "artist",
+                "uri": "spotify:artist:25IG9fa7cbdmCIy3OnuH57"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27309874a0209b4bc9c0b3a0a01",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0209874a0209b4bc9c0b3a0a01",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485109874a0209b4bc9c0b3a0a01",
+                "width": 64
+              }
+            ],
+            "name": "Fly"
+          },
+          "name": "Cowboy Take Me Away",
+          "preview_url": "https://p.scdn.co/mp3-preview/8697c7630c5cd3bc497ccfc24cc3eef9d4b21016?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+                },
+                "href": "https://api.spotify.com/v1/artists/3b8QkneNDz4JHKKKlLgYZg",
+                "id": "3b8QkneNDz4JHKKKlLgYZg",
+                "name": "Florida Georgia Line",
+                "type": "artist",
+                "uri": "spotify:artist:3b8QkneNDz4JHKKKlLgYZg"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ebf6b25a268e55bb31f2f7af",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ebf6b25a268e55bb31f2f7af",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ebf6b25a268e55bb31f2f7af",
+                "width": 64
+              }
+            ],
+            "name": "Here's To The Good Times...This Is How We Roll"
+          },
+          "name": "This Is How We Roll",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+                },
+                "href": "https://api.spotify.com/v1/artists/2kucQ9jQwuD8jWdtR9Ef38",
+                "id": "2kucQ9jQwuD8jWdtR9Ef38",
+                "name": "Sam Hunt",
+                "type": "artist",
+                "uri": "spotify:artist:2kucQ9jQwuD8jWdtR9Ef38"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739e6b694939f7495f67a0de33",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029e6b694939f7495f67a0de33",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519e6b694939f7495f67a0de33",
+                "width": 64
+              }
+            ],
+            "name": "Montevallo"
+          },
+          "name": "Take Your Time",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+                },
+                "href": "https://api.spotify.com/v1/artists/0u2FHSq3ln94y5Q57xazwf",
+                "id": "0u2FHSq3ln94y5Q57xazwf",
+                "name": "Keith Urban",
+                "type": "artist",
+                "uri": "spotify:artist:0u2FHSq3ln94y5Q57xazwf"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f6e149411732432811a5efc9",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f6e149411732432811a5efc9",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f6e149411732432811a5efc9",
+                "width": 64
+              }
+            ],
+            "name": "Ripcord"
+          },
+          "name": "Blue Ain't Your Color",
+          "preview_url": "https://p.scdn.co/mp3-preview/19a516eb63436af2472537a4cd1617b66cd479c1?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+                },
+                "href": "https://api.spotify.com/v1/artists/502FY8XQYRxClWgolQ3Hf2",
+                "id": "502FY8XQYRxClWgolQ3Hf2",
+                "name": "Lynn Anderson",
+                "type": "artist",
+                "uri": "spotify:artist:502FY8XQYRxClWgolQ3Hf2"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c88a398a82acc86bb938ebda",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c88a398a82acc86bb938ebda",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c88a398a82acc86bb938ebda",
+                "width": 64
+              }
+            ],
+            "name": "Rose Garden"
+          },
+          "name": "Rose Garden",
+          "preview_url": "https://p.scdn.co/mp3-preview/8d1349b598412d7c61acc21619efcbd741cbe483?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+                },
+                "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+                "id": "3grHWM9bx2E9vwJCdlRv9O",
+                "name": "Kenny Chesney",
+                "type": "artist",
+                "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736d112aa979880ae25bf612c1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026d112aa979880ae25bf612c1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516d112aa979880ae25bf612c1",
+                "width": 64
+              }
+            ],
+            "name": "Just Who I Am: Poets & Pirates"
+          },
+          "name": "Don't Blink",
+          "preview_url": "https://p.scdn.co/mp3-preview/2e1e96a28d9e8cd20f2cb07772f1a9a914e50942?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+                },
+                "href": "https://api.spotify.com/v1/artists/6OheJTrDFGiyZ67F1BBLhc",
+                "id": "6OheJTrDFGiyZ67F1BBLhc",
+                "name": "Crystal Gayle",
+                "type": "artist",
+                "uri": "spotify:artist:6OheJTrDFGiyZ67F1BBLhc"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730aee56c811fe828a7572b77f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020aee56c811fe828a7572b77f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510aee56c811fe828a7572b77f",
+                "width": 64
+              }
+            ],
+            "name": "Crystal Gayle: The Hits"
+          },
+          "name": "I'll Get Over You - Remastered",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+                },
+                "href": "https://api.spotify.com/v1/artists/1UTPBmNbXNTittyMJrNkvw",
+                "id": "1UTPBmNbXNTittyMJrNkvw",
+                "name": "Blake Shelton",
+                "type": "artist",
+                "uri": "spotify:artist:1UTPBmNbXNTittyMJrNkvw"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e82bbb24145a83c00ebcf918",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02e82bbb24145a83c00ebcf918",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851e82bbb24145a83c00ebcf918",
+                "width": 64
+              }
+            ],
+            "name": "Red River Blue (Deluxe Edition)"
+          },
+          "name": "God Gave Me You",
+          "preview_url": "https://p.scdn.co/mp3-preview/13f2b27e66a3631e17d2ff37e946b6a00b35b644?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+                },
+                "href": "https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd",
+                "id": "5vngPClqofybhPERIqQMYd",
+                "name": "George Strait",
+                "type": "artist",
+                "uri": "spotify:artist:5vngPClqofybhPERIqQMYd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d8cc8031949336177c74989a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d8cc8031949336177c74989a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d8cc8031949336177c74989a",
+                "width": 64
+              }
+            ],
+            "name": "Carrying Your Love With Me"
+          },
+          "name": "Carrying Your Love With Me",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+                },
+                "href": "https://api.spotify.com/v1/artists/2qgvmDsc4jrqbAbjq1HGM2",
+                "id": "2qgvmDsc4jrqbAbjq1HGM2",
+                "name": "Rodney Atkins",
+                "type": "artist",
+                "uri": "spotify:artist:2qgvmDsc4jrqbAbjq1HGM2"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27394dc873336395f0315306a34",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0294dc873336395f0315306a34",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485194dc873336395f0315306a34",
+                "width": 64
+              }
+            ],
+            "name": "If You're Going Through Hell"
+          },
+          "name": "Watching You",
+          "preview_url": "https://p.scdn.co/mp3-preview/0dde5688092880c0f82d1c966fc0975607b666d5?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+                },
+                "href": "https://api.spotify.com/v1/artists/5sAg1HZePcFfhrs0G8A8OP",
+                "id": "5sAg1HZePcFfhrs0G8A8OP",
+                "name": "Ray Price",
+                "type": "artist",
+                "uri": "spotify:artist:5sAg1HZePcFfhrs0G8A8OP"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733bc085a67c575d2b790dcea1",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023bc085a67c575d2b790dcea1",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513bc085a67c575d2b790dcea1",
+                "width": 64
+              }
+            ],
+            "name": "The Essential Ray Price"
+          },
+          "name": "For the Good Times",
+          "preview_url": "https://p.scdn.co/mp3-preview/077ae0a86487b2b25db5d8c5616186870263c6cd?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+                },
+                "href": "https://api.spotify.com/v1/artists/718COspgdWOnwOFpJHRZHS",
+                "id": "718COspgdWOnwOFpJHRZHS",
+                "name": "Luke Combs",
+                "type": "artist",
+                "uri": "spotify:artist:718COspgdWOnwOFpJHRZHS"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b7578013decfa174e30dc298",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b7578013decfa174e30dc298",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b7578013decfa174e30dc298",
+                "width": 64
+              }
+            ],
+            "name": "This One's for You"
+          },
+          "name": "Hurricane",
+          "preview_url": "https://p.scdn.co/mp3-preview/31ef150abff28c93d67135d2abbe287b34f5fb84?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+                },
+                "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+                "id": "3grHWM9bx2E9vwJCdlRv9O",
+                "name": "Kenny Chesney",
+                "type": "artist",
+                "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730dafd3fe4c2795f4ffb5a2ea",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020dafd3fe4c2795f4ffb5a2ea",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510dafd3fe4c2795f4ffb5a2ea",
+                "width": 64
+              }
+            ],
+            "name": "The Big Revival"
+          },
+          "name": "American Kids",
+          "preview_url": "https://p.scdn.co/mp3-preview/f23d792920d92174e8708b7841df011d7f48258f?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+                },
+                "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+                "id": "6roFdX1y5BYSbp60OTJWMd",
+                "name": "Tim McGraw",
+                "type": "artist",
+                "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733069894b5d58159a103dd169",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023069894b5d58159a103dd169",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513069894b5d58159a103dd169",
+                "width": 64
+              }
+            ],
+            "name": "All I Want"
+          },
+          "name": "I Like It, I Love It",
+          "preview_url": "https://p.scdn.co/mp3-preview/7f6f3341de8af2cef94130928483d25346fe78d5?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV"
+                },
+                "href": "https://api.spotify.com/v1/artists/0iTkPxRldzi5lmS6qZ70JV",
+                "id": "0iTkPxRldzi5lmS6qZ70JV",
+                "name": "C.W. McCall",
+                "type": "artist",
+                "uri": "spotify:artist:0iTkPxRldzi5lmS6qZ70JV"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273183cad608b1e5a734f052710",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02183cad608b1e5a734f052710",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851183cad608b1e5a734f052710",
+                "width": 64
+              }
+            ],
+            "name": "C.W. McCall's Greatest Hits"
+          },
+          "name": "Convoy",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+                },
+                "href": "https://api.spotify.com/v1/artists/2Ev0e8GUIX4u7d9etNLTXg",
+                "id": "2Ev0e8GUIX4u7d9etNLTXg",
+                "name": "Jim Reeves",
+                "type": "artist",
+                "uri": "spotify:artist:2Ev0e8GUIX4u7d9etNLTXg"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732aedd8069da6df1e8a607320",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e022aedd8069da6df1e8a607320",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048512aedd8069da6df1e8a607320",
+                "width": 64
+              }
+            ],
+            "name": "The Essential Jim Reeves"
+          },
+          "name": "This Is It",
+          "preview_url": "https://p.scdn.co/mp3-preview/3b611788170ef5f225c8c5843bec37fc214c1b87?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+                },
+                "href": "https://api.spotify.com/v1/artists/6uvq6FeVsmhOWfJHxVNeBL",
+                "id": "6uvq6FeVsmhOWfJHxVNeBL",
+                "name": "Faron Young",
+                "type": "artist",
+                "uri": "spotify:artist:6uvq6FeVsmhOWfJHxVNeBL"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736313c9e0fdcb7f1871e15d1a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e026313c9e0fdcb7f1871e15d1a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048516313c9e0fdcb7f1871e15d1a",
+                "width": 64
+              }
+            ],
+            "name": "The Ultimate Box Collection"
+          },
+          "name": "Hello Walls",
+          "preview_url": "https://p.scdn.co/mp3-preview/ab7eaa475816405e53229b7969a33370dc11e018?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+                },
+                "href": "https://api.spotify.com/v1/artists/0jgAONnsHxrwAlhkMUVS78",
+                "id": "0jgAONnsHxrwAlhkMUVS78",
+                "name": "Eddie Rabbitt",
+                "type": "artist",
+                "uri": "spotify:artist:0jgAONnsHxrwAlhkMUVS78"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734eaed5bf854ec6cb5d78b26b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024eaed5bf854ec6cb5d78b26b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514eaed5bf854ec6cb5d78b26b",
+                "width": 64
+              }
+            ],
+            "name": "Number One Hits"
+          },
+          "name": "Every Which Way but Loose - 2009 Remaster",
+          "preview_url": "https://p.scdn.co/mp3-preview/fceffddcaed1072030419d4cf8b9576117766b27?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+                },
+                "href": "https://api.spotify.com/v1/artists/6roFdX1y5BYSbp60OTJWMd",
+                "id": "6roFdX1y5BYSbp60OTJWMd",
+                "name": "Tim McGraw",
+                "type": "artist",
+                "uri": "spotify:artist:6roFdX1y5BYSbp60OTJWMd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d282f3a0a345c94bf754fa60",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d282f3a0a345c94bf754fa60",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d282f3a0a345c94bf754fa60",
+                "width": 64
+              }
+            ],
+            "name": "Everywhere"
+          },
+          "name": "Just To See You Smile",
+          "preview_url": "https://p.scdn.co/mp3-preview/e7f2d3510ea30bdd87567c77eccce0c5c419b724?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                },
+                "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                "id": "06HL4z0CvFAxyc27GXpf02",
+                "name": "Taylor Swift",
+                "type": "artist",
+                "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27378de0096f5395323490185e6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0278de0096f5395323490185e6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485178de0096f5395323490185e6",
+                "width": 64
+              }
+            ],
+            "name": "Taylor Swift (Big Machine Radio Release Special)"
+          },
+          "name": "Our Song",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+                },
+                "href": "https://api.spotify.com/v1/artists/02rd0anEWfMtF7iMku9uor",
+                "id": "02rd0anEWfMtF7iMku9uor",
+                "name": "Reba McEntire",
+                "type": "artist",
+                "uri": "spotify:artist:02rd0anEWfMtF7iMku9uor"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27370c821f8a5ce4b1411bbc801",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0270c821f8a5ce4b1411bbc801",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485170c821f8a5ce4b1411bbc801",
+                "width": 64
+              }
+            ],
+            "name": "For My Broken Heart"
+          },
+          "name": "The Night The Lights Went Out In Georgia",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+                },
+                "href": "https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8",
+                "id": "2bA6fzP0lMAQ4kz6CF61w8",
+                "name": "Toby Keith",
+                "type": "artist",
+                "uri": "spotify:artist:2bA6fzP0lMAQ4kz6CF61w8"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739a96831652bc502bddfe34ef",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029a96831652bc502bddfe34ef",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519a96831652bc502bddfe34ef",
+                "width": 64
+              }
+            ],
+            "name": "Greatest Hits"
+          },
+          "name": "Should've Been A Cowboy",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+                },
+                "href": "https://api.spotify.com/v1/artists/7gi3jmwpUpNWdswT8eEprF",
+                "id": "7gi3jmwpUpNWdswT8eEprF",
+                "name": "Conway Twitty",
+                "type": "artist",
+                "uri": "spotify:artist:7gi3jmwpUpNWdswT8eEprF"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27360280246fb17b7536f6d8544",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0260280246fb17b7536f6d8544",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485160280246fb17b7536f6d8544",
+                "width": 64
+              }
+            ],
+            "name": "The Very Best Of Conway Twitty"
+          },
+          "name": "Hello Darlin' - Single Version",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+                },
+                "href": "https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd",
+                "id": "5vngPClqofybhPERIqQMYd",
+                "name": "George Strait",
+                "type": "artist",
+                "uri": "spotify:artist:5vngPClqofybhPERIqQMYd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2733dc838cf6504d48c3e2529e4",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e023dc838cf6504d48c3e2529e4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048513dc838cf6504d48c3e2529e4",
+                "width": 64
+              }
+            ],
+            "name": "Livin' It Up"
+          },
+          "name": "Love Without End, Amen",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+                },
+                "href": "https://api.spotify.com/v1/artists/218kRJZ7FJs0hWIk8Ynzhz",
+                "id": "218kRJZ7FJs0hWIk8Ynzhz",
+                "name": "Charlie Rich",
+                "type": "artist",
+                "uri": "spotify:artist:218kRJZ7FJs0hWIk8Ynzhz"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f069837cd9eeab10c7192547",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f069837cd9eeab10c7192547",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f069837cd9eeab10c7192547",
+                "width": 64
+              }
+            ],
+            "name": "Behind Closed Doors (Expanded Edition)"
+          },
+          "name": "Behind Closed Doors",
+          "preview_url": "https://p.scdn.co/mp3-preview/ea32e6f35bc6b62a37672294cf6c85b1d82b5acd?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+                },
+                "href": "https://api.spotify.com/v1/artists/3RqBeV12Tt7A8xH3zBDDUF",
+                "id": "3RqBeV12Tt7A8xH3zBDDUF",
+                "name": "Kelsea Ballerini",
+                "type": "artist",
+                "uri": "spotify:artist:3RqBeV12Tt7A8xH3zBDDUF"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273447ed9b63ecb8a7c4d65305c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02447ed9b63ecb8a7c4d65305c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851447ed9b63ecb8a7c4d65305c",
+                "width": 64
+              }
+            ],
+            "name": "The First Time"
+          },
+          "name": "Peter Pan",
+          "preview_url": "https://p.scdn.co/mp3-preview/a9d581bffd11ba4c9afebdf61257f59dbcea9ac1?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+                },
+                "href": "https://api.spotify.com/v1/artists/2ptmyXoL7poH6Zq62h1QT9",
+                "id": "2ptmyXoL7poH6Zq62h1QT9",
+                "name": "Merle Haggard",
+                "type": "artist",
+                "uri": "spotify:artist:2ptmyXoL7poH6Zq62h1QT9"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a4f181527f8061ba125c44d8",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a4f181527f8061ba125c44d8",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a4f181527f8061ba125c44d8",
+                "width": 64
+              }
+            ],
+            "name": "Hag's Christmas"
+          },
+          "name": "If We Make It Through December",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ",
+                "id": "6Sb8EHpZvyjSTT5KD9DjUZ",
+                "name": "Ronnie Milsap",
+                "type": "artist",
+                "uri": "spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ed42998de249e964c8eeefc3",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02ed42998de249e964c8eeefc3",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851ed42998de249e964c8eeefc3",
+                "width": 64
+              }
+            ],
+            "name": "Milsap Magic"
+          },
+          "name": "My Heart",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+                },
+                "href": "https://api.spotify.com/v1/artists/7gi3jmwpUpNWdswT8eEprF",
+                "id": "7gi3jmwpUpNWdswT8eEprF",
+                "name": "Conway Twitty",
+                "type": "artist",
+                "uri": "spotify:artist:7gi3jmwpUpNWdswT8eEprF"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734167f39c1edc207412081145",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024167f39c1edc207412081145",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514167f39c1edc207412081145",
+                "width": 64
+              }
+            ],
+            "name": "17 Number 1's"
+          },
+          "name": "You’ve Never Been This Far Before (Re-Recorded)",
+          "preview_url": "https://p.scdn.co/mp3-preview/5044d9e168c0843f724f72d525b7667ba1e3421e?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+                },
+                "href": "https://api.spotify.com/v1/artists/6WY7D3jk8zTrHtmkqqo5GI",
+                "id": "6WY7D3jk8zTrHtmkqqo5GI",
+                "name": "Maren Morris",
+                "type": "artist",
+                "uri": "spotify:artist:6WY7D3jk8zTrHtmkqqo5GI"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738bd4a20032a613d28e909109",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e028bd4a20032a613d28e909109",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048518bd4a20032a613d28e909109",
+                "width": 64
+              }
+            ],
+            "name": "HERO (Deluxe Edition)"
+          },
+          "name": "My Church",
+          "preview_url": "https://p.scdn.co/mp3-preview/cf3844864a2e5d92b288fc8fd7fd9308e1a48c58?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+                },
+                "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+                "id": "6kACVPfCOnqzgfEF5ryl0x",
+                "name": "Johnny Cash",
+                "type": "artist",
+                "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024a04593b7c149dc7b725683e",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514a04593b7c149dc7b725683e",
+                "width": 64
+              }
+            ],
+            "name": "At Folsom Prison"
+          },
+          "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+          "preview_url": "https://p.scdn.co/mp3-preview/3ec9ecc3476af893db9c60c71ed8661ec32391bd?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+                },
+                "href": "https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8",
+                "id": "2bA6fzP0lMAQ4kz6CF61w8",
+                "name": "Toby Keith",
+                "type": "artist",
+                "uri": "spotify:artist:2bA6fzP0lMAQ4kz6CF61w8"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d241324e9e9f14f83f293c5a",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d241324e9e9f14f83f293c5a",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d241324e9e9f14f83f293c5a",
+                "width": 64
+              }
+            ],
+            "name": "Toby Keith 35 Biggest Hits"
+          },
+          "name": "How Do You Like Me Now?!",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+                },
+                "href": "https://api.spotify.com/v1/artists/4mxWe1mtYIYfP040G38yvS",
+                "id": "4mxWe1mtYIYfP040G38yvS",
+                "name": "Alan Jackson",
+                "type": "artist",
+                "uri": "spotify:artist:4mxWe1mtYIYfP040G38yvS"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273933cf67cacfab71afa20c6c4",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02933cf67cacfab71afa20c6c4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851933cf67cacfab71afa20c6c4",
+                "width": 64
+              }
+            ],
+            "name": "A Lot About Livin' (And A Little 'Bout Love)"
+          },
+          "name": "Chattahoochee",
+          "preview_url": "https://p.scdn.co/mp3-preview/1ee1b1218975069cd2247bbc2eaabbc7a4c89775?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+                },
+                "href": "https://api.spotify.com/v1/artists/6uvq6FeVsmhOWfJHxVNeBL",
+                "id": "6uvq6FeVsmhOWfJHxVNeBL",
+                "name": "Faron Young",
+                "type": "artist",
+                "uri": "spotify:artist:6uvq6FeVsmhOWfJHxVNeBL"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27399e8f1ab64940639b4ec34af",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0299e8f1ab64940639b4ec34af",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485199e8f1ab64940639b4ec34af",
+                "width": 64
+              }
+            ],
+            "name": "Alone with You"
+          },
+          "name": "Hello Walls",
+          "preview_url": "https://p.scdn.co/mp3-preview/126ebe3dcb11deda11b5c63dcbc34aee8d4932dc?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+                },
+                "href": "https://api.spotify.com/v1/artists/0XKOBt59crntr7HQXXO8Yz",
+                "id": "0XKOBt59crntr7HQXXO8Yz",
+                "name": "Brooks & Dunn",
+                "type": "artist",
+                "uri": "spotify:artist:0XKOBt59crntr7HQXXO8Yz"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273941001e5ce6bc1272466de29",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02941001e5ce6bc1272466de29",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851941001e5ce6bc1272466de29",
+                "width": 64
+              }
+            ],
+            "name": "#1s ... and then some"
+          },
+          "name": "My Maria",
+          "preview_url": "https://p.scdn.co/mp3-preview/11791c167d54e6cf96cb324a4d3b0fa04ef1a80b?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+                },
+                "href": "https://api.spotify.com/v1/artists/3XlIhgydjvC4EniPFZT20j",
+                "id": "3XlIhgydjvC4EniPFZT20j",
+                "name": "Trisha Yearwood",
+                "type": "artist",
+                "uri": "spotify:artist:3XlIhgydjvC4EniPFZT20j"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a9fa7bf53b901285361b734f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02a9fa7bf53b901285361b734f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851a9fa7bf53b901285361b734f",
+                "width": 64
+              }
+            ],
+            "name": "Greatest Hits"
+          },
+          "name": "XXX's And OOO's (An American Girl)",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+                },
+                "href": "https://api.spotify.com/v1/artists/6Sb8EHpZvyjSTT5KD9DjUZ",
+                "id": "6Sb8EHpZvyjSTT5KD9DjUZ",
+                "name": "Ronnie Milsap",
+                "type": "artist",
+                "uri": "spotify:artist:6Sb8EHpZvyjSTT5KD9DjUZ"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27305f33dac96ea52bb71186189",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0205f33dac96ea52bb71186189",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485105f33dac96ea52bb71186189",
+                "width": 64
+              }
+            ],
+            "name": "Lost In The Fifties Tonight"
+          },
+          "name": "Lost In The Fifties Tonight",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF"
+                },
+                "href": "https://api.spotify.com/v1/artists/2EtHntibRhuBeOmpRT2HNF",
+                "id": "2EtHntibRhuBeOmpRT2HNF",
+                "name": "Carl Butler",
+                "type": "artist",
+                "uri": "spotify:artist:2EtHntibRhuBeOmpRT2HNF"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739f66337fbcd57571320ad3a0",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029f66337fbcd57571320ad3a0",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519f66337fbcd57571320ad3a0",
+                "width": 64
+              }
+            ],
+            "name": "Don't Let Me Cross Over"
+          },
+          "name": "Don't Let Me Cross Over",
+          "preview_url": "https://p.scdn.co/mp3-preview/ed2df50ec9dbcf3f306c0d5559542fa2f6b5c651?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+                },
+                "href": "https://api.spotify.com/v1/artists/2bA6fzP0lMAQ4kz6CF61w8",
+                "id": "2bA6fzP0lMAQ4kz6CF61w8",
+                "name": "Toby Keith",
+                "type": "artist",
+                "uri": "spotify:artist:2bA6fzP0lMAQ4kz6CF61w8"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273608370238c487e505e961d15",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02608370238c487e505e961d15",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851608370238c487e505e961d15",
+                "width": 64
+              }
+            ],
+            "name": "Honkytonk University"
+          },
+          "name": "As Good As I Once Was",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf"
+                },
+                "href": "https://api.spotify.com/v1/artists/7wVgfy012qNvQ607JM5Qsf",
+                "id": "7wVgfy012qNvQ607JM5Qsf",
+                "name": "Red Sovine",
+                "type": "artist",
+                "uri": "spotify:artist:7wVgfy012qNvQ607JM5Qsf"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fdb45be7acf654e82722ea48",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02fdb45be7acf654e82722ea48",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851fdb45be7acf654e82722ea48",
+                "width": 64
+              }
+            ],
+            "name": "Teddy Bear"
+          },
+          "name": "Teddy Bear",
+          "preview_url": "https://p.scdn.co/mp3-preview/de91c927a738cab88921aa3db596ea023d6b6a69?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+                },
+                "href": "https://api.spotify.com/v1/artists/218kRJZ7FJs0hWIk8Ynzhz",
+                "id": "218kRJZ7FJs0hWIk8Ynzhz",
+                "name": "Charlie Rich",
+                "type": "artist",
+                "uri": "spotify:artist:218kRJZ7FJs0hWIk8Ynzhz"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b3bb86cadddc41c951004937",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b3bb86cadddc41c951004937",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b3bb86cadddc41c951004937",
+                "width": 64
+              }
+            ],
+            "name": "The Essential Charlie Rich"
+          },
+          "name": "There Won't Be Anymore",
+          "preview_url": "https://p.scdn.co/mp3-preview/be4f13cdcae0b7c4e4b6ab2202e7be29bd6f2edc?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+                },
+                "href": "https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo",
+                "id": "3IhWQSrLj8EJjdvjFTpCyo",
+                "name": "Vince Gill",
+                "type": "artist",
+                "uri": "spotify:artist:3IhWQSrLj8EJjdvjFTpCyo"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730b8b41f260c2491ff43b0771",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020b8b41f260c2491ff43b0771",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510b8b41f260c2491ff43b0771",
+                "width": 64
+              }
+            ],
+            "name": "When I Call Your Name"
+          },
+          "name": "When I Call Your Name",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+                },
+                "href": "https://api.spotify.com/v1/artists/3grHWM9bx2E9vwJCdlRv9O",
+                "id": "3grHWM9bx2E9vwJCdlRv9O",
+                "name": "Kenny Chesney",
+                "type": "artist",
+                "uri": "spotify:artist:3grHWM9bx2E9vwJCdlRv9O"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735acf3c8e7f393f93b38d6bca",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e025acf3c8e7f393f93b38d6bca",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048515acf3c8e7f393f93b38d6bca",
+                "width": 64
+              }
+            ],
+            "name": "Greatest Hits II"
+          },
+          "name": "The Good Stuff",
+          "preview_url": "https://p.scdn.co/mp3-preview/ef8f05235be3cfacb570a42a053c6b20ac6e7116?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+                },
+                "href": "https://api.spotify.com/v1/artists/3ltFy7g6KKQPPttsdOMlq3",
+                "id": "3ltFy7g6KKQPPttsdOMlq3",
+                "name": "Jo Dee Messina",
+                "type": "artist",
+                "uri": "spotify:artist:3ltFy7g6KKQPPttsdOMlq3"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27336be216a07f04fd5b3e1e14d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0236be216a07f04fd5b3e1e14d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485136be216a07f04fd5b3e1e14d",
+                "width": 64
+              }
+            ],
+            "name": "All-Time Greatest Hits"
+          },
+          "name": "Lesson In Leavin'",
+          "preview_url": "https://p.scdn.co/mp3-preview/9ef8eb6a899f110fdca1df7fad8f7fcbbb9e1f58?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+                },
+                "href": "https://api.spotify.com/v1/artists/6kACVPfCOnqzgfEF5ryl0x",
+                "id": "6kACVPfCOnqzgfEF5ryl0x",
+                "name": "Johnny Cash",
+                "type": "artist",
+                "uri": "spotify:artist:6kACVPfCOnqzgfEF5ryl0x"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c17beab3e27f18af397a00b2",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02c17beab3e27f18af397a00b2",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851c17beab3e27f18af397a00b2",
+                "width": 64
+              }
+            ],
+            "name": "The Essential Johnny Cash"
+          },
+          "name": "Daddy Sang Bass",
+          "preview_url": "https://p.scdn.co/mp3-preview/67b20210301062ba521179dd45ab1f2ba456fa87?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
+                },
+                "href": "https://api.spotify.com/v1/artists/2ahMUMyJ2xTC1Qaneot7Sm",
+                "id": "2ahMUMyJ2xTC1Qaneot7Sm",
+                "name": "Johnny Duncan",
+                "type": "artist",
+                "uri": "spotify:artist:2ahMUMyJ2xTC1Qaneot7Sm"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b1e659604d9756dae204312c",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b1e659604d9756dae204312c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b1e659604d9756dae204312c",
+                "width": 64
+              }
+            ],
+            "name": "The Essential Johnny Duncan"
+          },
+          "name": "Thinkin' of a Rendezvous - Single Version",
+          "preview_url": "https://p.scdn.co/mp3-preview/f92826a4468cd2519217df2a0c5f742617e08e25?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+                },
+                "href": "https://api.spotify.com/v1/artists/5vngPClqofybhPERIqQMYd",
+                "id": "5vngPClqofybhPERIqQMYd",
+                "name": "George Strait",
+                "type": "artist",
+                "uri": "spotify:artist:5vngPClqofybhPERIqQMYd"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27394828ca538aeb53266817c0d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0294828ca538aeb53266817c0d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485194828ca538aeb53266817c0d",
+                "width": 64
+              }
+            ],
+            "name": "George Strait's Greatest Hits"
+          },
+          "name": "You Look So Good In Love",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+                },
+                "href": "https://api.spotify.com/v1/artists/3FfvYsEGaIb52QPXhg4DcH",
+                "id": "3FfvYsEGaIb52QPXhg4DcH",
+                "name": "Jason Aldean",
+                "type": "artist",
+                "uri": "spotify:artist:3FfvYsEGaIb52QPXhg4DcH"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d85a4237f346a6f1fa14064d",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d85a4237f346a6f1fa14064d",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d85a4237f346a6f1fa14064d",
+                "width": 64
+              }
+            ],
+            "name": "Old Boots, New Dirt"
+          },
+          "name": "Burnin' It Down",
+          "preview_url": "https://p.scdn.co/mp3-preview/f3f00de8d75c8aa83c07ee4c1ffc069e8193492a?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+                },
+                "href": "https://api.spotify.com/v1/artists/7wCjDgV6nqBsHguQXPAaIM",
+                "id": "7wCjDgV6nqBsHguQXPAaIM",
+                "name": "Waylon Jennings",
+                "type": "artist",
+                "uri": "spotify:artist:7wCjDgV6nqBsHguQXPAaIM"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27386889a813ba3f2eacf2ad71f",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0286889a813ba3f2eacf2ad71f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485186889a813ba3f2eacf2ad71f",
+                "width": 64
+              }
+            ],
+            "name": "Ultimate Waylon Jennings"
+          },
+          "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+          "preview_url": "https://p.scdn.co/mp3-preview/69f059bd5f04e9da2ddaca4cb8d7a036534f485f?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+                },
+                "href": "https://api.spotify.com/v1/artists/1FE0rls8gfQT3laAeRYNgl",
+                "id": "1FE0rls8gfQT3laAeRYNgl",
+                "name": "Loretta Lynn",
+                "type": "artist",
+                "uri": "spotify:artist:1FE0rls8gfQT3laAeRYNgl"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273105efc7e27696434d265db1b",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02105efc7e27696434d265db1b",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851105efc7e27696434d265db1b",
+                "width": 64
+              }
+            ],
+            "name": "Coal Miner's Daughter"
+          },
+          "name": "Coal Miner's Daughter - Single Version",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+                },
+                "href": "https://api.spotify.com/v1/artists/36eTeLNx8ErucrEyRm6JOo",
+                "id": "36eTeLNx8ErucrEyRm6JOo",
+                "name": "Shenandoah",
+                "type": "artist",
+                "uri": "spotify:artist:36eTeLNx8ErucrEyRm6JOo"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27302f1a49f66967650e7b403de",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0202f1a49f66967650e7b403de",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485102f1a49f66967650e7b403de",
+                "width": 64
+              }
+            ],
+            "name": "Super Hits"
+          },
+          "name": "Two Dozen Roses",
+          "preview_url": "https://p.scdn.co/mp3-preview/17d1153a422c6e12d66fe2de7ec9116847f5c05b?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+                },
+                "href": "https://api.spotify.com/v1/artists/66lH4jAE7pqPlOlzUKbwA0",
+                "id": "66lH4jAE7pqPlOlzUKbwA0",
+                "name": "Miranda Lambert",
+                "type": "artist",
+                "uri": "spotify:artist:66lH4jAE7pqPlOlzUKbwA0"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27377e9a2078bad0d1abb644135",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0277e9a2078bad0d1abb644135",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485177e9a2078bad0d1abb644135",
+                "width": 64
+              }
+            ],
+            "name": "Platinum"
+          },
+          "name": "Automatic",
+          "preview_url": "https://p.scdn.co/mp3-preview/1f4774ce6e39c87e4f937ec29f0751a661357760?cid=5ede1cd36a2549d8984e8e96069bb5b5"
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+                },
+                "href": "https://api.spotify.com/v1/artists/3IhWQSrLj8EJjdvjFTpCyo",
+                "id": "3IhWQSrLj8EJjdvjFTpCyo",
+                "name": "Vince Gill",
+                "type": "artist",
+                "uri": "spotify:artist:3IhWQSrLj8EJjdvjFTpCyo"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273660b4e8296145319f40aa4c6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02660b4e8296145319f40aa4c6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851660b4e8296145319f40aa4c6",
+                "width": 64
+              }
+            ],
+            "name": "Souvenirs"
+          },
+          "name": "Don't Let Our Love Start Slippin' Away",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+                },
+                "href": "https://api.spotify.com/v1/artists/4fxdqujwhb2NIQyr7qnnPX",
+                "id": "4fxdqujwhb2NIQyr7qnnPX",
+                "name": "Kitty Wells",
+                "type": "artist",
+                "uri": "spotify:artist:4fxdqujwhb2NIQyr7qnnPX"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d93c05fe3430589e59f147b6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d93c05fe3430589e59f147b6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d93c05fe3430589e59f147b6",
+                "width": 64
+              }
+            ],
+            "name": "The Country Music Hall Of Fame"
+          },
+          "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
+          "preview_url": null
+        }
+      },
+      {
+        "track": {
+          "album": {
+            "artists": [
+              {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF"
+                },
+                "href": "https://api.spotify.com/v1/artists/0dlwjJe4kg9TgOMN184bJF",
+                "id": "0dlwjJe4kg9TgOMN184bJF",
+                "name": "Mark Wills",
+                "type": "artist",
+                "uri": "spotify:artist:0dlwjJe4kg9TgOMN184bJF"
+              }
+            ],
+            "images": [
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273360faabf7f13aab251a3b0e6",
+                "width": 640
+              },
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02360faabf7f13aab251a3b0e6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851360faabf7f13aab251a3b0e6",
+                "width": 64
+              }
+            ],
+            "name": "Greatest Hits"
+          },
+          "name": "19 Somethin' - Greatest Hits Version",
+          "preview_url": null
+        }
+      }
+    ],
+    "total": 100
+  }
+}
