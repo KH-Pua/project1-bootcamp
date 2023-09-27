@@ -7,7 +7,7 @@ import FinalScreen from "./Pages/FinalScreen.js";
 import "./App.css";
 
 class App extends React.Component {
-  constructor(props){
+  constructor(props) {
     super(props);
     this.audioRef = React.createRef();
     this.state = {
@@ -15,7 +15,7 @@ class App extends React.Component {
         {
           question: "Level",
           name: "gameSelection",
-          display: ["Easy", "Intermediate"]
+          display: ["Easy", "Intermediate"],
         },
         {
           question: "Region",
@@ -27,20 +27,20 @@ class App extends React.Component {
           name: "genre",
           display: {
             eastern: ["Cantopop", "Mandopop"],
-            western: ["Classical", "Country", "Roadtrip"]
-          }
-        }
+            western: ["Classical", "Country", "Roadtrip"],
+          },
+        },
       ],
       // Flow of the app
-      stage: 1, 
+      stage: 1,
       // Selection of difficulty
-      gameSelection: "", 
+      gameSelection: "",
       // Selection of Playlist
       playlistSelection: "",
       // Combined track for game (3 tracks)
       combinedTrack: "",
       // Timer
-      countdownTimer: 120, 
+      countdownTimer: 120,
       // User selected answer
       userSelectedAnswer: "",
       // Correct answer for each round
@@ -49,61 +49,61 @@ class App extends React.Component {
       scoreCount: 0,
       // Player status
       isPlaying: true,
-    }
+    };
   }
 
   handleNext = () => {
-    let { stage } = this.state
-      this.setState({
-        stage: stage + 1
-      })
-  }
+    let { stage } = this.state;
+    this.setState({
+      stage: stage + 1,
+    });
+  };
 
   handlePrevious = () => {
-    let { stage } = this.state
+    let { stage } = this.state;
     if (stage > 0) {
       this.setState({
-        stage: stage - 1
+        stage: stage - 1,
       });
     }
-  }
+  };
 
   handleUpdate = (selection, value) => {
     // What to update? 1) Game Selection, Playlist Selection
     if (selection === "gameSelection") {
       this.setState({
-        gameSelection: value
+        gameSelection: value,
       });
     } else if (selection === "playlistSelection") {
       this.setState({
-        playlistSelection: value
-      }); 
+        playlistSelection: value,
+      });
     } else if (selection === "combinedTrack") {
       this.setState({
-        combinedTrack: value
+        combinedTrack: value,
       });
     } else if (selection === "countdownTimer") {
       this.setState({
-        countdownTimer: value
-      }); 
+        countdownTimer: value,
+      });
     } else if (selection === "userSelectedAnswer") {
       this.setState({
-        userSelectedAnswer: value
+        userSelectedAnswer: value,
       });
     } else if (selection === "correctAnswer") {
       this.setState({
-        correctAnswer: value
+        correctAnswer: value,
       });
     } else if (selection === "scoreCount") {
       this.setState({
-        scoreCount: value
+        scoreCount: value,
       });
     } else if (selection === "isPlaying") {
       this.setState({
-        isPlaying: value
+        isPlaying: value,
       });
     }
-  }
+  };
 
   handleRestart = () => {
     this.setState({
@@ -114,35 +114,42 @@ class App extends React.Component {
       coundownTimer: 120,
       userSelectedAnswer: "",
       correctAnswer: "",
-      scoreCount: 0
-    })
-  }
+      scoreCount: 0,
+    });
+  };
 
   togglePlay = () => {
-    let { isPlaying } = this.state
-    const audioElement = this.audioRef.current
-    
+    let { isPlaying } = this.state;
+    const audioElement = this.audioRef.current;
+
     if (isPlaying) {
       audioElement.pause();
     } else {
       audioElement.play();
     }
 
-    this.setState(prevState => ({
-      isPlaying: !prevState.isPlaying
+    this.setState((prevState) => ({
+      isPlaying: !prevState.isPlaying,
     }));
   };
 
   render() {
-    let {questionList, stage, gameSelection, playlistSelection, combinedTrack, coundownTimer, userSelectedAnswer, correctAnswer, scoreCount, isPlaying} = this.state
-    let currentScreen
+    let {
+      questionList,
+      stage,
+      gameSelection,
+      playlistSelection,
+      combinedTrack,
+      coundownTimer,
+      userSelectedAnswer,
+      correctAnswer,
+      scoreCount,
+      isPlaying,
+    } = this.state;
+    let currentScreen;
 
     if (stage === 1) {
-      currentScreen = (
-        <HomeScreen 
-          handleNext={this.handleNext} 
-        ></HomeScreen>
-      );
+      currentScreen = <HomeScreen handleNext={this.handleNext}></HomeScreen>;
     } else if (stage === 2) {
       currentScreen = (
         <GameSelection
@@ -150,37 +157,36 @@ class App extends React.Component {
           handleNext={this.handleNext}
           handleUpdate={this.handleUpdate}
           handleRestart={this.handleRestart}
-          ></GameSelection>
+        ></GameSelection>
       );
     } else if (stage === 3) {
       currentScreen = (
         <PlaylistSelection
-        questionList={questionList}
-        handleNext={this.handleNext}
-        handlePrevious={this.handlePrevious}
-        handleUpdate={this.handleUpdate}
-        handleRestart={this.handleRestart}
+          questionList={questionList}
+          handleNext={this.handleNext}
+          handlePrevious={this.handlePrevious}
+          handleUpdate={this.handleUpdate}
+          handleRestart={this.handleRestart}
         ></PlaylistSelection>
       );
     } else if (stage === 4) {
       currentScreen = (
         <GamePlay
-        // Does game play need handle restart?
-        handleNext={this.handleNext}
-        handleUpdate={this.handleUpdate}
-        gameSelection={gameSelection}
-        playlistSelection={playlistSelection}
-        combinedTrack={combinedTrack}
-        coundownTimer={coundownTimer}
-        userSelectedAnswer={userSelectedAnswer}
-        correctAnswer={correctAnswer}
-        scoreCount={scoreCount}
-        isPlaying={isPlaying}
-        togglePlay={this.togglePlay}
-        audioRef={this.audioRef}
+          handleNext={this.handleNext}
+          handleUpdate={this.handleUpdate}
+          gameSelection={gameSelection}
+          playlistSelection={playlistSelection}
+          combinedTrack={combinedTrack}
+          coundownTimer={coundownTimer}
+          userSelectedAnswer={userSelectedAnswer}
+          correctAnswer={correctAnswer}
+          scoreCount={scoreCount}
+          isPlaying={isPlaying}
+          togglePlay={this.togglePlay}
+          audioRef={this.audioRef}
         ></GamePlay>
       );
-    } else if (stage === 5){
+    } else if (stage === 5) {
       currentScreen = (
         <FinalScreen
           handleRestart={this.handleRestart}
@@ -189,11 +195,7 @@ class App extends React.Component {
       );
     }
 
-    return (
-      <div className="App">
-        {currentScreen}
-      </div>
-    );
+    return <div className="App">{currentScreen}</div>;
   }
 }
 

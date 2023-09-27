@@ -1,11 +1,10 @@
-import React from 'react';
+import React from "react";
 
 export default class MusicPlayer extends React.Component {
   constructor(props) {
     super(props);
     //this.audioRef = React.createRef();
-    this.state = {
-    };
+    this.state = {};
   }
 
   // togglePlay = () => {
@@ -21,18 +20,18 @@ export default class MusicPlayer extends React.Component {
   // };
 
   playAudio = () => {
-    let { audioRef } = this.props
+    let { audioRef } = this.props;
     const audioElement = audioRef.current;
     audioElement.play();
-  }
+  };
 
   addAudioEventListener = () => {
-    let { handleUpdate, audioRef } = this.props
+    let { handleUpdate, audioRef } = this.props;
     const audioElement = audioRef.current;
-    audioElement.addEventListener('ended', () => {
+    audioElement.addEventListener("ended", () => {
       handleUpdate("isPlaying", false);
     });
-  }
+  };
 
   componentDidMount() {
     this.playAudio();
@@ -40,7 +39,7 @@ export default class MusicPlayer extends React.Component {
   }
 
   componentDidUpdate(prevProps) {
-    let { handleUpdate, source } = this.props
+    let { handleUpdate, source } = this.props;
     if (prevProps.source !== source) {
       this.playAudio();
       handleUpdate("isPlaying", true);
@@ -48,12 +47,15 @@ export default class MusicPlayer extends React.Component {
   }
 
   render() {
-    let { isPlaying, source, togglePlay, audioRef } = this.props
+    let { isPlaying, source, togglePlay, audioRef } = this.props;
     return (
       <div>
         <audio ref={audioRef} src={source} />
-        <button className="btn btn-circle w-20 h-20 text-lg font-bold" onClick={togglePlay}>
-          {isPlaying ? 'Pause' : 'Play'}
+        <button
+          className="btn btn-circle w-20 h-20 text-lg font-bold"
+          onClick={togglePlay}
+        >
+          {isPlaying ? "Pause" : "Play"}
         </button>
       </div>
     );

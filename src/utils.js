@@ -4,34 +4,26 @@ const playlistRoadtrip = require("./JSON/playlist-song-for-roadtrip.json");
 const playlistMandopop = require("./JSON/playlist-mandopop.json");
 const playlistCantopop = require("./JSON/playlist-cantopop.json");
 
-// function getRandomObjectsFromArray(arr, num) {
-//     const shuffled = arr.sort(() => 0.5 - Math.random());
-//     return shuffled.slice(0, num);
-// }
-
 function parseJSON(playlist) {
+  const arrangedPlaylist = playlist.tracks.items.map((eachTrack) => {
+    let trackName = eachTrack.track.name;
+    let trackPreviewUrl = eachTrack.track.preview_url;
+    let artistName = eachTrack.track.album.artists[0].name;
+    let albumName = eachTrack.track.album.name;
+    let albumArt = eachTrack.track.album.images[0].url;
 
-    //const playlistExtracted = JSON.parse(playlist);
+    return {
+      trackName: trackName,
+      trackPreviewUrl: trackPreviewUrl,
+      artistName: artistName,
+      albumName: albumName,
+      albumArt: albumArt,
+    };
+  });
 
-    const arrangedPlaylist = playlist.tracks.items.map((eachTrack) => {
-        let trackName = eachTrack.track.name
-        let trackPreviewUrl = eachTrack.track.preview_url
-        let artistName = eachTrack.track.album.artists[0].name
-        let albumName = eachTrack.track.album.name
-        let albumArt = eachTrack.track.album.images[0].url
-
-        return {
-            trackName: trackName,
-            trackPreviewUrl: trackPreviewUrl,
-            artistName: artistName,
-            albumName: albumName,
-            albumArt: albumArt
-        }
-    });
-
-    return arrangedPlaylist.filter((obj) => {
-        return obj.trackPreviewUrl !== null
-    })
+  return arrangedPlaylist.filter((obj) => {
+    return obj.trackPreviewUrl !== null;
+  });
 }
 
 const easternObj = {};
@@ -46,27 +38,5 @@ westernObj.roadtrip = parseJSON(playlistRoadtrip);
 const selectionsObj = {};
 selectionsObj.eastern = easternObj;
 selectionsObj.western = westernObj;
-
-// {
-//     eastern: {
-//         cantopop: {
-//             key: "value",
-//         },
-//         mandopop: {
-//             key: "value",
-//         }
-//     },
-//     western: {
-//         classical: {
-//             key: "value",
-//         },
-//         country: {
-//             key: "value",
-//         },
-//         roadtrip: {
-//             key: "value",
-//         }
-//     }
-// }
 
 export default selectionsObj;

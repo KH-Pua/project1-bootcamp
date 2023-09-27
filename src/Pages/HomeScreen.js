@@ -1,4 +1,5 @@
 import React from "react";
+//import { options } from "prettier-plugin-tailwindcss";
 
 export default class HomeScreen extends React.Component {
   constructor(props) {
@@ -16,7 +17,9 @@ export default class HomeScreen extends React.Component {
         <br />
         <p className="text-xs">Powered by Spotify.</p>
         <br />
-        <button className="btn" onClick={this.props.handleNext}>START</button>
+        <button className="btn" onClick={this.props.handleNext}>
+          START
+        </button>
       </div>
     );
   }
