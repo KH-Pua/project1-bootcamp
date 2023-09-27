@@ -320,7 +320,12 @@ export default class GamePlay extends React.Component {
         announcement = "Wrong Answer!";
       }
     } else if (gameSelection === "Intermediate") {
-      instruction = <p className="text-xs">Select Track, Artist & Album</p>;
+      instruction = (
+        <div className=" flex flex-col justify-center content-center items-center gap-1">
+          <p className="text-xs">Select Track, Artist & Album.</p>
+          <p className="text-xs">Selection with the same category will be overlapped.</p>
+        </div>
+      )
 
       //1) Select certain "values" from given "keys", return a nested key, value entries array.
       let nestedKeyValuePairs = combinedTrack.map((trackObj) =>
