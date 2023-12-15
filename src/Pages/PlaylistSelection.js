@@ -11,6 +11,53 @@ export default class PlaylistSelection extends React.Component {
     };
   }
 
+  selectKeyValuePairs = (obj, keys) => {
+    const result = {};
+
+    keys.forEach((key) => {
+      result[key] = obj[key];
+    });
+
+    // return Object.entries(result);
+    return result;
+  };
+
+  handleIntermediateLvlSelection = (combinedTrack) => {
+    //Select only "trackName", "artistName" & "albumName" key value pairs from combinedTrack
+    let nestedKeyValuePairs = combinedTrack.map((trackObj) => {
+      return this.selectKeyValuePairs(trackObj, [
+        "trackName",
+        "artistName",
+        "albumName",
+      ]);
+    });
+
+    let buttons = nestedKeyValuePairs.map((trackObj) => {
+      let trackObjKeyArr = Object.keys(trackObj);
+      return trackObjKeyArr.map((key, index, arr) => {
+        let nextIndexForKey;
+        if (index === 0) {
+          nextIndexForKey = index + 1;
+        } else if (index === 1) {
+          nextIndexForKey = index + 2;
+        } else if (index === 2) {
+          nextIndexForKey = index;
+        };
+        return (
+          <button
+            className="btn btn-md btn-wide text-sm normal-case"
+            onClick={this.validateAnswerIntermediate}
+            name={trackObj[key]}
+            key={trackObj[key] + trackObj[arr[nextIndexForKey]]}
+            value={trackObj[key]}
+          >
+            {trackObj[key]}
+          </button>
+        );
+      });
+    })
+  };
+
   handleClickForward = (event) => {
     let { questionNo, categorySelection } = this.state;
     let { handleUpdate } = this.props;
@@ -30,7 +77,7 @@ export default class PlaylistSelection extends React.Component {
   };
 
   handleSongSelectionInitialize = (playlistSelection) => {
-    let { handleNext, handleUpdate } = this.props;
+    let { handleNext, handleUpdate, gameSelection } = this.props;
 
     // 1) Get Random number from playlistSelection.length e.g.("0-149")
     let randomIndexForAns = this.generateRandomIndexNumber(playlistSelection);
@@ -43,7 +90,7 @@ export default class PlaylistSelection extends React.Component {
     // 3) Remove the selected song from the playlist and update the state
     playlistSelection.splice(randomIndexForAns, 1);
 
-    // 4) Generate 3 random numbers
+    // 4) Generate 2 random numbers
     let randomArrOfIndex = [];
     for (let i = 0; i < 2; i++) {
       let randomNumber = this.generateRandomIndexNumber(playlistSelection);
@@ -58,12 +105,15 @@ export default class PlaylistSelection extends React.Component {
     // 6) Combined both "correctTrack" & "Remaining Track"
     let combinedTrack = remainingTrack.concat(correctTrack);
 
-    // 7) Pass the modified/newly added item to parent state
-    handleUpdate("playlistSelection", playlistSelection);
-    handleUpdate("correctAnswer", correctTrack);
-    handleUpdate("combinedTrack", combinedTrack);
+    if (gameSelection === "Easy") {
+      // 7) Pass the modified/newly added item to parent state
+      handleUpdate("playlistSelection", playlistSelection);
+      handleUpdate("correctAnswer", correctTrack);
+      handleUpdate("combinedTrack", combinedTrack);
 
-    handleNext();
+      handleNext();
+    } else if (gameSelection === "Intermediate") {
+    }
   };
 
   generateRandomIndexNumber = (arr) => {

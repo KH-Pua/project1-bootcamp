@@ -38,7 +38,7 @@ export default class GamePlay extends React.Component {
       // 3) Remove the selected song from the playlist and update the state
       playlistSelection.splice(randomIndexForAns, 1);
 
-      // 4) Generate 3 random numbers
+      // 4) Generate 2 random numbers
       let randomArrOfIndex = [];
       for (let i = 0; i < 2; i++) {
         let randomNumber = this.generateRandomIndexNumber(playlistSelection);
@@ -79,7 +79,8 @@ export default class GamePlay extends React.Component {
       result[key] = obj[key];
     });
 
-    return Object.entries(result);
+    // return Object.entries(result);
+    return result;
   };
 
   validateAnswerEasy = (event) => {
@@ -320,6 +321,12 @@ export default class GamePlay extends React.Component {
         announcement = "Wrong Answer!";
       }
     } else if (gameSelection === "Intermediate") {
+
+      //Set the shuffled playlist to state
+      //If the result is true reset the shuffled playlist to state
+      //else w
+      //(if only 1 selection change color)
+      //(of there is 3 selection, validate the 3 selection whether is the selected is it correct)
       instruction = (
         <div className=" flex flex-col justify-center content-center items-center gap-1">
           <p className="text-xs">Select Track, Artist & Album.</p>
@@ -328,31 +335,66 @@ export default class GamePlay extends React.Component {
       )
 
       //1) Select certain "values" from given "keys", return a nested key, value entries array.
-      let nestedKeyValuePairs = combinedTrack.map((trackObj) =>
-        this.selectKeyValuePairs(trackObj, [
+      let nestedKeyValuePairs = combinedTrack.map((trackObj) => {
+        console.log(trackObj);
+        return this.selectKeyValuePairs(trackObj, [
           "trackName",
           "artistName",
           "albumName",
         ])
-      );
+      });
 
       //2) Mapped the key value pairs into buttons
-      let nestedArrButtons = nestedKeyValuePairs.map((entriesArr) =>
-        entriesArr.map((attr) => (
-          <button
-            className="btn btn-md btn-wide text-sm normal-case"
-            onClick={this.validateAnswerIntermediate}
-            name={attr[0]}
-            key={`${attr[0]}${attr[1]}`}
-            value={attr[1]}
-          >
-            {attr[1]}
-          </button>
-        ))
-      );
+      console.log(nestedKeyValuePairs);
+      let buttons = nestedKeyValuePairs.map((trackObj) => {
+        
+        let trackObjKeyArr = Object.keys(trackObj);
+        return trackObjKeyArr.map((key, index, arr) => {
+          let nextIndexForKey
+          if (index === 0) {
+            nextIndexForKey = index + 1;
+          } else if (index === 1) {
+            nextIndexForKey = index + 2;
+          } else if (index === 2) {
+            nextIndexForKey = index;
+          };
+          return (
+            <button
+              className="btn btn-md btn-wide text-sm normal-case"
+              onClick={this.validateAnswerIntermediate}
+              name={trackObj[key]}
+              key={
+                trackObj[key] + trackObj[arr[nextIndexForKey]]
+              }
+              value={trackObj[key]}
+            >
+              {trackObj[key]}
+            </button>
+          );
+        });
+      });
+      console.log(buttons);
+
+      // let nestedArrButtons = nestedKeyValuePairs.map((entriesArr) =>
+      //   entriesArr.map((attr) => (
+      //     <button
+      //       className="btn btn-md btn-wide text-sm normal-case"
+      //       onClick={this.validateAnswerIntermediate}
+      //       name={attr[0]}
+      //       key={`${attr[0]}${attr[1]}`}
+      //       value={attr[1]}
+      //     >
+      //       {attr[1]}
+      //     </button>
+      //   ))
+      // );
 
       //3) Flatten array and shuffle.
-      selectionButtons = [].concat(...nestedArrButtons);
+      //selectionButtons = [].concat(...nestedArrButtons);
+      selectionButtons = [].concat(...buttons);
+      console.log(selectionButtons);
+      this.shuffleArray(selectionButtons);
+      console.log(selectionButtons);
 
       if (result === "") {
         selectionButtons = selectionButtons.map((buttonObj) => {

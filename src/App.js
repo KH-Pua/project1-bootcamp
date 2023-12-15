@@ -40,7 +40,7 @@ class App extends React.Component {
       // Combined track for game (3 tracks)
       combinedTrack: "",
       // Timer
-      countdownTimer: 120,
+      countdownTimer: 60,
       // User selected answer
       userSelectedAnswer: "",
       // Correct answer for each round
@@ -163,6 +163,7 @@ class App extends React.Component {
       currentScreen = (
         <PlaylistSelection
           questionList={questionList}
+          gameSelection={gameSelection}
           handleNext={this.handleNext}
           handlePrevious={this.handlePrevious}
           handleUpdate={this.handleUpdate}
