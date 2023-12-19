@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/project1-bootcamp/static/css/main.1c113e39.css",
-    "main.js": "/project1-bootcamp/static/js/main.77f3bc48.js",
-    "index.html": "/project1-bootcamp/index.html",
-    "main.1c113e39.css.map": "/project1-bootcamp/static/css/main.1c113e39.css.map",
-    "main.77f3bc48.js.map": "/project1-bootcamp/static/js/main.77f3bc48.js.map"
+    "main.css": "/uplayiguess-frontend/static/css/main.1c113e39.css",
+    "main.js": "/uplayiguess-frontend/static/js/main.77f3bc48.js",
+    "index.html": "/uplayiguess-frontend/index.html",
+    "main.1c113e39.css.map": "/uplayiguess-frontend/static/css/main.1c113e39.css.map",
+    "main.77f3bc48.js.map": "/uplayiguess-frontend/static/js/main.77f3bc48.js.map"
   },
   "entrypoints": [
     "static/css/main.1c113e39.css",
